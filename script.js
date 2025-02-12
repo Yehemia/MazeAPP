@@ -16,7 +16,7 @@ const walkwayImage = new Image();
 walkwayImage.src = "https://i.imgur.com/3henhoR.png";
 
 const playerImage = new Image();
-playerImage.src = "pixel-art-cat.gif"; // Cinnamoroll GIF as the player
+playerImage.src = "cat.gif"; // Cinnamoroll GIF as the player
 
 const whiteHeartImage = new Image();
 whiteHeartImage.src = "https://media.tenor.com/wnVuzMq9fYsAAAAi/love-heart.gif"; // White heart GIF for winning
