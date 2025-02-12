@@ -7,7 +7,7 @@
 /* Body styling */
 body { 
     text-align: center;
-    background: #ffdde1 url('https://imgur.com/gallery/pixel-starry-sky-jMYCrs7') no-repeat center center fixed; /* Soft pink background with the image */
+    background: #ffdde1 url(undefined\ -\ Imgur.png) no-repeat center center fixed; /* Soft pink background with the image */
     background-size: cover; /* Ensures the image covers the entire background */
     display: flex;
     flex-direction: column;
